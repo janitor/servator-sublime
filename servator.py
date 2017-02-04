@@ -4,7 +4,7 @@ import sublime_plugin
 import io
 
 
-SERVATOR_API_UPLOAD_ENDPOINT = 'http://servator.ws/api/upload'
+SERVATOR_API_UPLOAD_ENDPOINT = 'http://serve.janitorrb.com/api/upload'
 
 
 class ServatorCommand(sublime_plugin.TextCommand):
